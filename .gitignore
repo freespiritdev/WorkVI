@@ -17,5 +17,6 @@
 /tmp
 /config/application.yml
 /config/secrets.yml
+config/locales/devise.en.yml
 /config/initializers/devise.rb
 .DS_Store
